@@ -1,0 +1,15 @@
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\giuaky.exe.config
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\giuaky.exe
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\giuaky.pdb
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\EntityFramework.dll
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\EntityFramework.xml
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.Form1.resources
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.Properties.Resources.resources
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.csproj.GenerateResource.cache
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.csproj.Up2Date
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.exe
+C:\Users\Huy\source\repos\KT_GiữaKy\giuaky\obj\Debug\giuaky.pdb
